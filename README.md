@@ -1,2 +1,2 @@
 # Office-Data-MySQL-Database-Prj
-CRUD Operations are perfoemed on employees list.
+CRUD Operations are performed on employees list.
